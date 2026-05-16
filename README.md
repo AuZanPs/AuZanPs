@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Im a Full-Stack Developer
+
+─────────────────────────────────────────────
+  Builder · Cloudflare-native · No defaults
+─────────────────────────────────────────────
+
+→  Currently learning       Durable Objects · real-time on the edge
+→  Open to collaborate      Edge-native SaaS · Cloudflare Workers products
+→  Ask me about             HONC stack · Drizzle + Neon · Astro + GSAP
+→  Reach me                 @AuZanPs
 
 <!--
 **AuZanPs/AuZanPs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
